@@ -1,0 +1,6 @@
+2001 zheng 20 f 80 90 70 wulian
+1005 zhang 18 f 70 89 90 jiek
+1004 zhao 20 f 60 70 80 wanggong
+1002 li 19 m 50 60 70 jike
+6666 ming 67 m 67 56 89 fen
+1001 wang 20 f 1 89 99 jike
